@@ -48,7 +48,7 @@ The WAV files are 16bit, 16KHz mono which makes them fairly small. Compared to o
 
 The BMP files contain the letters and any additional words and graphics. The BMP files were scaled to 170 x 270 pixels to fit into the drawing area. The BMP files contain the plain alphabet are named A.bmp through Z.bmp. The enhanced versions, with additional graphics, are named A-enh.bmp through Z-enh.bmp. As the user presses the last or next buttons, a counter into the alphabet is decremented or incremented and added to an ASCII “A”. This gives the start letter for the file and then full filenames are created. If “A-enh.bmp” exists, it will be loaded and displayed, otherwise an attempt to load “A.bmp” will be made. The application will display a large red circle if no suitable BMP files can be found. This is a more meaning error mechanism for the target audience.
 
-What do I need?
+## What do I need?
 
 You will need:
 
