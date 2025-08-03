@@ -23,17 +23,21 @@ The main goals of this project were:
 ## What does it look like?
 
 This is what the project looks like when it’s running:
+
 <img width="75%" height="75%" alt="image" src="https://github.com/user-attachments/assets/ebdc850a-3cc2-4529-b3e7-a3de63bbaa8d" />
 
 This shows a letter A that the user can trace over using their finger. There is a choice of 4 different drawing colors. There are 3 action buttons that will move to the last (previous) letter, reset the drawing area and move to the next letter.
 
 Here’s what the letter looks like after it has been traced:
+
 <img width="75%" height="75%" alt="image" src="https://github.com/user-attachments/assets/05672d6d-c1f7-443f-8883-cb2e76917dd8" />
 
 Enhanced versions of the letters can be display that contain additional information. Here’s an enhanced A:
+
 <img width="75%" height="75%" alt="image" src="https://github.com/user-attachments/assets/17f4ed53-bfaf-4446-9236-9eb4ba5ab74a" />
 
 This reinforces an object (apple), the letter of the alphabet and its associated word. The child could also color the apple graphic as well as trace the letter, adding an element of fun. Here’s an enhanced B:
+
 <img width="75%" height="75%" alt="image" src="https://github.com/user-attachments/assets/710564d7-1de0-410b-9ec2-71ddda9496e4" />
 
 Color graphics can also be included, as well as object outlines. Here’s an enhanced G:
