@@ -42,6 +42,9 @@ This reinforces an object (apple), the letter of the alphabet and its associated
 
 Color graphics can also be included, as well as object outlines. Here’s an enhanced G:
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/39643266-ca9f-4364-a394-83e899ac9d45" />
+
+A short demo of the project is here https://youtu.be/N7IAcxFRqg0.
+
 ## Technical Overview
 
 The project uses a Core2 AWS (https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit-for-aws-iot-edukit) Microcontroller from M5Stack (https://m5stack.com/). I just happen to have a few of these microcontrollers from another project I worked on.
